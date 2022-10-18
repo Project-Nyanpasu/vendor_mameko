@@ -22,11 +22,11 @@ PRODUCT_COPY_FILES += \
     vendor/mameko/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
 # Icon
-#PRODUCT_PACKAGES += \
-#    IconPackCircularAndroidOverlay \
-#    IconPackCircularLauncherOverlay \
-#    IconPackCircularSettingsOverlay \
-#    IconPackCircularSystemUIOverlay
+PRODUCT_PACKAGES += \
+    IconPackCircularAndroidOverlay \
+    IconPackCircularLauncherOverlay \
+    IconPackCircularSettingsOverlay \
+    IconPackCircularSystemUIOverlay
 
 # Packages
 PRODUCT_PACKAGES += \
