@@ -31,4 +31,5 @@ PRODUCT_PACKAGES += \
 # Packages
 PRODUCT_PACKAGES += \
     NyanpasuWallpaperStub \
-    NyanpasuThemesStub
+    NyanpasuThemesStub \
+    SnowyWidget
