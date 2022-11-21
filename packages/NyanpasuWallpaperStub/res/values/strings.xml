@@ -17,4 +17,8 @@
 <resources>
     <string name="app_name">Nyanpasu Wallpaper</string>
     <string name="acg_wallpaper">二次元</string>
+    <string name="elaina_wallpaper">伊蕾娜</string>
+    <string name="hobunsha_wallpaper">芳文社萝莉</string>
+    <string name="spy_wallpaper">SPY x Family</string>
+    <string name="vtb_wallpaper">Vtuber</string>
 </resources>

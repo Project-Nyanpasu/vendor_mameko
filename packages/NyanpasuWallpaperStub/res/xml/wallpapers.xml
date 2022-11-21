@@ -80,95 +80,84 @@
             id="acg_13"
             src="@drawable/acg_13"
             title="@string/acg_wallpaper"/>
+    </category>
+    <category id="elaina" title="@string/elaina_wallpaper">
+        <static-wallpaper
+            id="elaina_1"
+            src="@drawable/elaina_1"
+            title="@string/elaina_wallpaper"/>
 
         <static-wallpaper
-            id="acg_14"
-            src="@drawable/acg_14"
-            title="@string/acg_wallpaper"/>
+            id="elaina_2"
+            src="@drawable/elaina_2"
+            title="@string/elaina_wallpaper"/>
+    </category>
+    <category id="hobunsha" title="@string/hobunsha_wallpaper">
+        <static-wallpaper
+            id="hobunsha_1"
+            src="@drawable/hobunsha_1"
+            title="@string/hobunsha_wallpaper"/>
 
         <static-wallpaper
-            id="acg_15"
-            src="@drawable/acg_15"
-            title="@string/acg_wallpaper"/>
+            id="hobunsha_2"
+            src="@drawable/hobunsha_2"
+            title="@string/hobunsha_wallpaper"/>
 
         <static-wallpaper
-            id="acg_16"
-            src="@drawable/acg_16"
-            title="@string/acg_wallpaper"/>
+            id="hobunsha_3"
+            src="@drawable/hobunsha_3"
+            title="@string/hobunsha_wallpaper"/>
 
         <static-wallpaper
-            id="acg_17"
-            src="@drawable/acg_17"
-            title="@string/acg_wallpaper"/>
+            id="hobunsha_4"
+            src="@drawable/hobunsha_4"
+            title="@string/hobunsha_wallpaper"/>
 
         <static-wallpaper
-            id="acg_18"
-            src="@drawable/acg_18"
-            title="@string/acg_wallpaper"/>
+            id="hobunsha_5"
+            src="@drawable/hobunsha_5"
+            title="@string/hobunsha_wallpaper"/>
+    </category>
+    <category id="spy" title="@string/spy_wallpaper">
+        <static-wallpaper
+            id="spy_1"
+            src="@drawable/spy_1"
+            title="@string/spy_wallpaper"/>
 
         <static-wallpaper
-            id="acg_19"
-            src="@drawable/acg_19"
-            title="@string/acg_wallpaper"/>
+            id="spy_2"
+            src="@drawable/spy_2"
+            title="@string/spy_wallpaper"/>
 
         <static-wallpaper
-            id="acg_20"
-            src="@drawable/acg_20"
-            title="@string/acg_wallpaper"/>
+            id="spy_3"
+            src="@drawable/spy_3"
+            title="@string/spy_wallpaper"/>
+    </category>
+    <category id="vtb" title="@string/vtb_wallpaper">
+        <static-wallpaper
+            id="vtb_1"
+            src="@drawable/vtb_1"
+            title="@string/vtb_wallpaper"/>
 
         <static-wallpaper
-            id="acg_21"
-            src="@drawable/acg_21"
-            title="@string/acg_wallpaper"/>
+            id="vtb_2"
+            src="@drawable/vtb_2"
+            title="@string/vtb_wallpaper"/>
 
         <static-wallpaper
-            id="acg_22"
-            src="@drawable/acg_22"
-            title="@string/acg_wallpaper"/>
+            id="vtb_3"
+            src="@drawable/vtb_3"
+            title="@string/vtb_wallpaper"/>
 
         <static-wallpaper
-            id="acg_23"
-            src="@drawable/acg_23"
-            title="@string/acg_wallpaper"/>
+            id="vtb_4"
+            src="@drawable/vtb_4"
+            title="@string/vtb_wallpaper"/>
 
         <static-wallpaper
-            id="acg_24"
-            src="@drawable/acg_24"
-            title="@string/acg_wallpaper"/>
-
-        <static-wallpaper
-            id="acg_25"
-            src="@drawable/acg_25"
-            title="@string/acg_wallpaper"/>
-
-        <static-wallpaper
-            id="acg_26"
-            src="@drawable/acg_26"
-            title="@string/acg_wallpaper"/>
-
-        <static-wallpaper
-            id="acg_27"
-            src="@drawable/acg_27"
-            title="@string/acg_wallpaper"/>
-
-        <static-wallpaper
-            id="acg_28"
-            src="@drawable/acg_28"
-            title="@string/acg_wallpaper"/>
-
-        <static-wallpaper
-            id="acg_29"
-            src="@drawable/acg_29"
-            title="@string/acg_wallpaper"/>
-
-        <static-wallpaper
-            id="acg_30"
-            src="@drawable/acg_30"
-            title="@string/acg_wallpaper"/>
-
-        <static-wallpaper
-            id="acg_31"
-            src="@drawable/acg_31"
-            title="@string/acg_wallpaper"/>
+            id="vtb_5"
+            src="@drawable/vtb_5"
+            title="@string/vtb_wallpaper"/>
     </category>
 </wallpapers>
