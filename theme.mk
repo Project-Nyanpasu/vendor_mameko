@@ -26,7 +26,8 @@ PRODUCT_PACKAGES += \
     IconPackCircularAndroidOverlay \
     IconPackCircularLauncherOverlay \
     IconPackCircularSettingsOverlay \
-    IconPackCircularSystemUIOverlay
+    IconPackCircularSystemUIOverlay \
+    IconWellbeingSettingsOverlay
 
 # Packages
 PRODUCT_PACKAGES += \
