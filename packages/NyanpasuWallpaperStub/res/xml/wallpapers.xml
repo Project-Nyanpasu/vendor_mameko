@@ -80,6 +80,16 @@
             id="acg_13"
             src="@drawable/acg_13"
             title="@string/acg_wallpaper"/>
+
+        <static-wallpaper
+            id="acg_14"
+            src="@drawable/acg_14"
+            title="@string/acg_wallpaper"/>
+
+        <static-wallpaper
+            id="acg_15"
+            src="@drawable/acg_15"
+            title="@string/acg_wallpaper"/>
     </category>
     <category id="elaina" title="@string/elaina_wallpaper">
         <static-wallpaper
@@ -116,6 +126,11 @@
         <static-wallpaper
             id="hobunsha_5"
             src="@drawable/hobunsha_5"
+            title="@string/hobunsha_wallpaper"/>
+        
+        <static-wallpaper
+            id="hobunsha_6"
+            src="@drawable/hobunsha_6"
             title="@string/hobunsha_wallpaper"/>
     </category>
     <category id="spy" title="@string/spy_wallpaper">
